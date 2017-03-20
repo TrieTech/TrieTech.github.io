@@ -1,3 +1,3 @@
-#TrieTech.gihub.io
+# TrieTech.gihub.io
 
 Featuring TrieTech's official website
